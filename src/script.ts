@@ -1,8 +1,2 @@
-// let addTwo : string = "Siam";
-
-
-let addTwo = (a : number, b : number) => {
-    return a + b;
-}
-
-console.log(addTwo (90, 10));
+import "./test1.js"
+import "./test2.js"

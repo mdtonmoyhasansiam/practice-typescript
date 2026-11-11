@@ -1,6 +1,2 @@
-"use strict";
-// let addTwo : string = "Siam";
-let addTwo = (a, b) => {
-    return a + b;
-};
-console.log(addTwo(90, 10));
+import "./test1.js";
+import "./test2.js";
