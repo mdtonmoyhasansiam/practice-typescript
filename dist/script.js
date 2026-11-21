@@ -3,3 +3,4 @@ import "./test2.js";
 import "./test3.js";
 import "./test4.js";
 import "./type-union.js";
+import "./test5.js";
