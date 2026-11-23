@@ -1,5 +1,6 @@
 // //* Type assertion
 // //* Type assertion
+// //* Type assertion
 
 // //* "as" syntax
 
